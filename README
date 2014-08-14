@@ -1,0 +1,3 @@
+If you have a norpix seq file that contains JPEGs, this script extracts the
+JPEGs into separate frames. It is a very silly script. It knows nothing about
+the .seq format, and simply looks for a JPEG signature.
