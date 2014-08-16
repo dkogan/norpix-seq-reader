@@ -62,7 +62,7 @@ getjpegfromseq.pl - extracts JPEG frames from a given .SEQ file
 =head1 SYNOPSIS
 
  # extracts all the frames
- ./getjpegfromseq.pl -n 5 input.seq
+ ./getjpegfromseq.pl input.seq
 
  # extracts the first 5 frames
  ./getjpegfromseq.pl -n 5 input.seq
